@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/shanehumphrey/CLionProjects/proj3EC/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/proj3EC.dir/driver.cpp.o -c /Users/shanehumphrey/CLionProjects/proj3EC/driver.cpp",
+  "file": "/Users/shanehumphrey/CLionProjects/proj3EC/driver.cpp"
+},
+{
+  "directory": "/Users/shanehumphrey/CLionProjects/proj3EC/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/proj3EC.dir/Train.cpp.o -c /Users/shanehumphrey/CLionProjects/proj3EC/Train.cpp",
+  "file": "/Users/shanehumphrey/CLionProjects/proj3EC/Train.cpp"
+},
+{
+  "directory": "/Users/shanehumphrey/CLionProjects/proj3EC/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/proj3EC.dir/Route.cpp.o -c /Users/shanehumphrey/CLionProjects/proj3EC/Route.cpp",
+  "file": "/Users/shanehumphrey/CLionProjects/proj3EC/Route.cpp"
+},
+{
+  "directory": "/Users/shanehumphrey/CLionProjects/proj3EC/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14 -o CMakeFiles/proj3EC.dir/Passenger.cpp.o -c /Users/shanehumphrey/CLionProjects/proj3EC/Passenger.cpp",
+  "file": "/Users/shanehumphrey/CLionProjects/proj3EC/Passenger.cpp"
+}
+]

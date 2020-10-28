@@ -1,0 +1,3 @@
+/Users/shanehumphrey/CLionProjects/proj3EC/build/CMakeFiles/rebuild_cache.dir
+/Users/shanehumphrey/CLionProjects/proj3EC/build/CMakeFiles/edit_cache.dir
+/Users/shanehumphrey/CLionProjects/proj3EC/build/CMakeFiles/proj3EC.dir

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shanehumphrey/CLionProjects/proj3EC/Passenger.h
+string
+-
+iostream
+-
+
+/Users/shanehumphrey/CLionProjects/proj3EC/Route.h
+Stop.cpp
+/Users/shanehumphrey/CLionProjects/proj3EC/Stop.cpp
+
+/Users/shanehumphrey/CLionProjects/proj3EC/Stop.cpp
+string
+-
+fstream
+-
+iostream
+-
+
+/Users/shanehumphrey/CLionProjects/proj3EC/Train.cpp
+Train.h
+/Users/shanehumphrey/CLionProjects/proj3EC/Train.h
+
+/Users/shanehumphrey/CLionProjects/proj3EC/Train.h
+Route.h
+/Users/shanehumphrey/CLionProjects/proj3EC/Route.h
+Passenger.h
+/Users/shanehumphrey/CLionProjects/proj3EC/Passenger.h
+vector
+-
+
